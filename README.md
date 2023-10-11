@@ -4,7 +4,7 @@
 
 Responsive, single-page modern design website presenting catering offer.
 
-The project was created as part of udemy course: "Build Responsive Real-World Websites with HTML and CSS".
+The project was created as part of udemy course: "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann.
 
 ### Features
 
